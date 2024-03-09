@@ -1,0 +1,681 @@
+body{
+    margin: 0px;
+    background-color:  rgb(248, 244, 244);
+}
+.divmain>div>p{
+    margin-top: 20px;
+    color:rgb(39, 39, 39) ;
+}
+.divmain>.div1>img{
+    width: 118px;
+    height: 70px;
+    margin-top: -6.5px;
+}
+.div{
+    height: 20px 0px;
+    border-bottom: 1px solid transparent;
+}
+.divmain>div{
+    margin-right: 25px;
+    margin-left: 0px;
+    margin-bottom: -1px;
+}
+.divmain>.div:hover{
+    border-bottom: 1.5px solid black;
+}
+.divmain{
+    display: flex;
+    border-bottom: 0.5px solid rgb(226, 226, 226);
+    margin: 0px;
+    width: 100%;
+    margin-top: -130px;
+    margin-left: 2px;
+    height: 75px;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    position: fixed;
+    background-color: rgb(248, 244, 244);
+}
+.div2>h4{
+    color: rgb(39, 39, 39);
+}
+.div2>h6{
+    margin-top: -18px;
+    color: rgb(105, 105, 105);
+}
+.divsearch{
+    border: 2px solid rgb(196, 179, 179);
+    width: 30%;
+    height: 30px;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin-top:15px ;
+}
+.divsearch>input{
+    border: none;
+    text-align: center;
+    background-color:rgb(248, 244, 244); 
+}
+.divmain2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+
+    width: 200px;
+}
+.divmain2>div>h5{
+    color: rgb(141, 141, 141);
+    font-size: 0.8rem;
+}
+.dov{
+    margin-right: 70px;
+    border-right: 1px solid transparent;
+    position: relative;
+}
+.divmain2>.d1{
+    margin-bottom: 10px;
+}
+.divmain2>div>a{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
+.a1{
+    margin-left: 25px;
+}
+.divmain3{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(32, 197, 148);
+    border-top-left-radius: 25rem;
+    border-bottom-left-radius: 25rem;
+    border-top-right-radius: 25rem;
+    border-bottom-right-radius: 25rem;
+    margin: 20px;
+    margin-left: -20px;
+    width: 150px;
+    color: rgb(32, 197, 148);
+    text-align: center;
+}
+.divmain3>h3{
+    font-size: 20px;
+    text-align: center;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+.divall2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left:-20px;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-top: -220px;
+}
+.div0{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-image: url(song1.png);
+}
+.div0:hover{
+    opacity: 0.9;
+}
+.diva:hover{
+    opacity: 0.9;
+}
+.divb:hover{
+    opacity: 0.9;
+}
+.divc:hover{
+    opacity: 0.9;
+}
+.divd:hover{
+    opacity: 0.9;
+}
+.dive:hover{
+    opacity: 0.9;
+}
+.divf:hover{
+    opacity: 0.9;
+}
+.divg:hover{
+    opacity: 0.9;
+}
+.divh:hover{
+    opacity: 0.9;
+}
+.divi:hover{
+    opacity: 0.9;
+}
+.divj:hover{
+    opacity: 0.9;
+}
+.divk:hover{
+    opacity: 0.9;
+}
+.divl:hover{
+    opacity: 0.9;
+}
+.divm:hover{
+    opacity: 0.9;
+}
+.divn:hover{
+    opacity: 0.9;
+}
+.divo:hover{
+    opacity: 0.9;
+}
+.divp:hover{
+    opacity: 0.9;
+}
+.divq:hover{
+    opacity: 0.9;
+}
+.divr:hover{
+    opacity: 0.9;
+}
+.divs:hover{
+    opacity: 0.9;
+}
+.divt:hover{
+    opacity: 0.9;
+}
+.divu:hover{
+    opacity: 0.9;
+}
+.divv:hover{
+    opacity: 0.9;
+}
+.divw:hover{
+    opacity: 0.9;
+}
+.divx:hover{
+    opacity: 0.9;
+}
+.divy:hover{
+    opacity: 0.9;
+}
+.divz:hover{
+    opacity: 0.9;
+}
+.divaa:hover{
+    opacity: 0.9;
+}
+.divbb:hover{
+    opacity: 0.9;
+}
+.divcc:hover{
+    opacity: 0.9;
+}
+.divdd:hover{
+    opacity: 0.9;
+}
+.divee:hover{
+    opacity: 0.9;
+}
+.diva{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song2.png);
+}
+.divb{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song3.png);
+}
+.divc{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song4.png);
+}
+.divd{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song5.png);
+}
+.dive{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song6.png);
+}
+.divf{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song7.png);
+}
+.divg{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song8.png);
+}
+.divh{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song9.png);
+}
+.divi{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song10.png);
+}
+.divj{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song11.png);
+}
+.divk{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song12.png);
+}
+.divl{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song13.png);
+}
+.divm{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song14.png);
+}
+.divn{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song15.png);
+}
+.divo{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song16.png);
+}
+
+.divp{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song17.png);
+}
+.divq{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song18.png);
+}
+.divr{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song19.png);
+}
+.divs{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song20.png);
+}
+.divt{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song21.png);
+}
+.divu{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song22.png);
+}
+.divv{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song23.png);
+}
+.divw{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song24.png);
+}
+.divx{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song25.png);
+}
+.divy{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song26.png);
+}
+.divz{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song27.png);
+}
+.divaa{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song28.png);
+}
+.divbb{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song29.png);
+}
+.divcc{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song30.png);
+}
+.divdd{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song31.png);
+}
+.divee{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song32.png);
+}
+.divff{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song33.png);
+}
+.divgg{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song34.png);
+}
+.divhh{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song35.png);
+}
+.divii{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song36.png);
+}
+.divjj{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song37.png);
+}
+.divkk{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song38.png);
+}
+.divll{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song39.png);
+}
+.divmm{
+    height: 100px;
+    width: 100px;
+    margin:10px;
+    border-radius: 5px;
+    background-image: url(song40.png);
+}
+#maindiv{
+    display: flex;
+}
+.dh1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 1px solid transparent;
+    height: 240px;
+    margin-top: -10px;
+    margin-left: 15px;
+}
+.div00{
+    text-align: center;
+    font-size: 1rem;
+    box-sizing: inherit;
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.div00>h3{
+    margin: 0px;
+}
+.div00>p{
+    margin:0px;
+    margin-left: 2px;
+    font-size: 0.8rem;
+}
+button{
+    background-color: transparent;
+    color: transparent;
+    border: none;
+    width: 50px;
+    height: 100px;
+}
+button:hover{
+    color: rgb(255, 255, 255);
+    background-color:transparent;
+}
+.innerdiv{
+    width: 100px;
+    height: 100px;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: end;
+   justify-content: space-evenly;
+    color: white;
+    background-color: transparent;
+   
+}
+.div12{
+    margin-left: 220px;
+
+}
+.div13{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+}
+.divs1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(as.png);
+}
+.divs2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(dr.png);
+}
+.divs3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(nk.png);
+}
+.divs4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(am2.png);
+    background-size:cover ;
+}
+.divs5{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(am1.png);
+}
+.diva1{
+    height: 100px;
+    width: 100px;
+    background-image: url(a1.png);
+}
+.diva2{
+    height: 100px;
+    width: 100px;
+    background-image: url(a2.png);
+}
+.diva3{
+    height: 100px;
+    width: 100px;
+    background-image: url(a3.png);
+}
+.diva4{
+    height: 100px;
+    width: 100px;
+    background-image: url(a4.png);
+}
+.diva5{
+    height: 100px;
+    width: 100px;
+    background-image: url(a5.png);
+}
+.divr1{
+    height: 100px;
+    width: 100px;
+    background-image: url(r1.png);
+}
+.divr2{
+    height: 100px;
+    width: 100px;
+    background-image: url(r2.png);
+}
+.divr3{
+    height: 100px;
+    width: 100px;
+    background-image: url(r3.png);
+}
+.divr4{
+    height: 100px;
+    width: 100px;
+    background-image: url(r4.png);
+}
+.divr5{
+    height: 100px;
+    width: 100px;
+    background-image: url(r5.png);
+}
+.divaaaa{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 30px;
+    color: rgb(111, 111, 111);
+}
+.divbbb>h4{
+    color: rgb(57, 57, 57);
+}
+.divaaa{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.divbbb{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.d01{
+    height: 25px;
+    width: 25px;
+}
+.divpt{
+    background-image: url(i1.png);
+}
+.divpp{
+    background-image: url(i2.png);
+}
+.divpq{
+    background-image: url(i3.png);
+}
+.divpr{
+    background-image: url(i4.png);
+}
+.divps{
+    background-image: url(i5.png);
+}
